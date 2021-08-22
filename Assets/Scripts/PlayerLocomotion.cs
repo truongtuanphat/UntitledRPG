@@ -10,7 +10,7 @@ public class PlayerLocomotion : MonoBehaviour
     Rigidbody playerRigidbody;
 
     public float movementSpeed = 7;
-    public float rotationSpeed = 15;
+    public float rotationSpeed = 20;
 
     public void Awake()
     {
