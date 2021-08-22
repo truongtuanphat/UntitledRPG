@@ -189,8 +189,8 @@ MonoBehaviour:
   cameraTransform: {fileID: 963194228}
   collisionLayers:
     serializedVersion: 2
-    m_Bits: 64
-  cameraCollisionRadius: 2
+    m_Bits: 128
+  cameraCollisionRadius: 0
   cameraFollowSpeed: 0
   cameraLookupSpeed: 0.2
   cameraPivotSpeed: 0.2
@@ -793,7 +793,7 @@ GameObject:
   - component: {fileID: 844518952}
   - component: {fileID: 844518951}
   - component: {fileID: 844518950}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}

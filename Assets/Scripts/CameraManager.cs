@@ -14,7 +14,7 @@ public class CameraManager : MonoBehaviour
     private Vector3 cameraVectorPosition;
     private float defaultPosition;
 
-    public float cameraCollisionRadius = 2;
+    public float cameraCollisionRadius = 0;
     public float cameraFollowSpeed = 0;
     public float cameraLookupSpeed = 0.2f;
     public float cameraPivotSpeed = 0.2f;
